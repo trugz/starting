@@ -1,2 +1,3 @@
 # starting
-first repository in my account
+hi People
+Eltit here just beginning.
